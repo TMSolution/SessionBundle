@@ -1,0 +1,3 @@
+tm_solution_session_homepage:
+    path:     /
+    defaults: { _controller: TMSolutionSessionBundle:Default:index }
